@@ -1,0 +1,69 @@
+Package information for developer.
+
+1) Directory structure
+
+The source code can be found from src/pkg. Tests are in tests
+directory. Additional resource files are in src/pkg/resources
+directory. data directory contains scripts that are used to
+update resources.
+
+__init___.py files tells that the directory is a module.
+
+'if __name__ == "__main__":' is not used. If file/module is run by individually
+the code inside the if statement is executed. If file/module is imported from
+the other file/module, the __name__ is not __main__ and the code is not executed.
+This statement could be useful if the file/module was used as a main function
+and specific code was wanted to be executed when file/module is executed.
+(Set some default values, create certain object...) However, that is not the
+case for the functions in this package.
+
+docs/package directory contains documentation of package.
+
+dist directory contains software files that can be distributed.
+
+
+2) Testing and configuration
+
+The tests are ran with tox environment. tox.ini contains
+information for the environment.
+
+pyproject.toml file contains information on configuration and
+testing of the package.
+
+The build is tested with setuptools. setup.cfg and setup.py files
+specify setuptools options.
+
+Unit tests are ran with pytest.
+
+mypy is utilized to analyze the code. 
+
+flake8 is utilized to analyze the style of the code.
+
+requirements.txt and requirements_dev.txt contain which
+packages are required by package and testing, respectively.
+
+
+3) Useful terminal commands
+
+build:
+python3 setup.py sdist bdist_wheel
+
+upload to testpypi:
+twine upload --repository testpypi dist/*
+
+upload to pypi:
+twine upload dist/*
+
+install:
+pip install -e .
+
+test (install before pytest):
+tox
+pytest
+mypy src
+
+documentation (install before):
+pdoc --html --output-dir ./docs --template-dir ./docs/theme --force  .
+mv docs/pytemplate/* docs
+rmdir docs/pytemplate
+

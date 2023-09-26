@@ -1,0 +1,310 @@
+,code,name,name_long,bid,vat_number,city_or_mun,language,mun_center,province,subregion
+0,020,Akaa,Akaan kaupunki,2050864-5,FI20508645,kaupunki,suomi,Toijalan keskustaajama,Pirkanmaa,Etelä-Pirkanmaan seutukunta
+1,005,Alajärvi,Alajärven kaupunki,0177619-3,FI01776193,kaupunki,suomi,Alajärven keskustaajama,Etelä-Pohjanmaa,Järviseudun seutukunta
+2,009,Alavieska,Alavieskan kunta,0184674-5,FI01846745,kunta,suomi,Alavieskan kirkonkylä,Pohjois-Pohjanmaa,Ylivieskan seutukunta
+3,010,Alavus,Alavuden kaupunki,0177736-4,FI01777364,kaupunki,suomi,Alavuden keskustaajama,Etelä-Pohjanmaa,Kuusiokuntien seutukunta
+4,016,Asikkala,Asikkalan kunta,0145208-4,FI01452084,kunta,suomi,Vääksy,Päijät-Häme,Lahden seutukunta
+5,018,Askola,Askolan kunta,9000162-0,FI90001620,kunta,suomi,Askolan kirkonkylä,Uusimaa,Porvoon seutukunta
+6,019,Aura,Auran kunta,0132103-3,FI01321033,kunta,suomi,Auran asemanseutu,Varsinais-Suomi,Loimaan seutukunta
+7,035,Brändö,Brändö kommun,0204999-1,FI02049991,kunta,ruotsi,Åva,Ahvenanmaa,Ålands skärgård
+8,043,Eckerö,Eckerö kommun,0144682-1,FI01446821,kunta,ruotsi,Överby,Ahvenanmaa,Ålands landsbygd
+9,046,Enonkoski,Enonkosken kunta,0163687-9,FI01636879,kunta,suomi,Enonkosken kirkonkylä,Etelä-Savo,Savonlinnan seutukunta
+10,047,Enontekiö,Enontekiön kunta,0190662-1,FI01906621,kunta,"suomi, pohjoissaame",Hetta,Lappi,Tunturi-Lapin seutukunta
+11,049,Espoo,Espoon kaupunki,0101263-6,FI01012636,kaupunki,"suomi, ruotsi",Espoon keskus,Uusimaa,Helsingin seutukunta
+12,050,Eura,Euran kunta,0132239-4,FI01322394,kunta,suomi,Euran keskustaajama,Satakunta,Rauman seutukunta
+13,051,Eurajoki,Eurajoen kunta,0132322-3,FI01323223,kunta,suomi,Eurajoen kirkonkylä,Satakunta,Rauman seutukunta
+14,052,Evijärvi,Evijärven kunta,0177804-1,FI01778041,kunta,suomi,Evijärven kirkonkylä,Etelä-Pohjanmaa,Järviseudun seutukunta
+15,060,Finström,Finströms kommun,0205003-6,FI02050036,kunta,ruotsi,Godby,Ahvenanmaa,Ålands landsbygd
+16,061,Forssa,Forssan kaupunki,0145626-1,FI01456261,kaupunki,suomi,Forssan keskustaajama,Kanta-Häme,Forssan seutukunta
+17,062,Föglö,Kommunalstyrelsen i föglö,0282394-0,FI02823940,kunta,ruotsi,Degerby,Ahvenanmaa,Ålands skärgård
+18,065,Geta,Geta kommun,0205012-4,FI02050124,kunta,ruotsi,Vestergeta,Ahvenanmaa,Ålands landsbygd
+19,069,Haapajärvi,Haapajärven kaupunki,0209756-3,FI02097563,kaupunki,suomi,Haapajärven keskustaajama,Pohjois-Pohjanmaa,Nivala–Haapajärven seutukunta
+20,071,Haapavesi,Haapaveden kaupunki,0184872-4,FI01848724,kaupunki,suomi,Haapaveden keskustaajama,Pohjois-Pohjanmaa,Haapaveden-Siikalatvan seutukunta
+21,072,Hailuoto,Hailuodon kunta,0184918-8,FI01849188,kunta,suomi,Hailuodon kirkonkylä,Pohjois-Pohjanmaa,Oulun seutukunta
+22,074,Halsua,Halsuan kunta,0177826-0,FI01778260,kunta,suomi,Halsuan kirkonkylä,Keski-Pohjanmaa,Kaustisen seutukunta
+23,075,Hamina,Haminan kaupunki,0242496-6,FI02424966,kaupunki,suomi,Haminan keskustaajama,Kymenlaakso,Kotka–Haminan seutukunta
+24,076,Hammarland,Hammarland kommun,0205014-0,FI02050140,kunta,ruotsi,Kattby,Ahvenanmaa,Ålands landsbygd
+25,077,Hankasalmi,Hankasalmen kunta,0174035-0,FI01740350,kunta,suomi,Hankasalmen kirkonkylä,Keski-Suomi,Jyväskylän seutukunta
+26,078,Hanko,Hangon kaupunki,0103166-9,FI01031669,kaupunki,"suomi, ruotsi",Hangon keskustaajama,Uusimaa,Raaseporin seutukunta
+27,079,Harjavalta,Harjavallan kaupunki,0132585-1,FI01325851,kaupunki,suomi,Harjavallan keskustaajama,Satakunta,Porin seutukunta
+28,081,Hartola,Hartolan kunta,0163734-5,FI01637345,kunta,suomi,Hartolan kirkonkylä,Päijät-Häme,Lahden seutukunta
+29,082,Hattula,Hattulan kunta,0145801-3,FI01458013,kunta,suomi,Parola,Kanta-Häme,Hämeenlinnan seutukunta
+30,086,Hausjärvi,Hausjärven kunta,0145997-2,FI01459972,kunta,suomi,Oitti,Kanta-Häme,Riihimäen seutukunta
+31,111,Heinola,Heinolan kaupunki,1068892-9,FI10688929,kaupunki,suomi,Heinolan keskustaajama,Päijät-Häme,Lahden seutukunta
+32,090,Heinävesi,Heinäveden kunta,0164308-3,FI01643083,kunta,suomi,Heinäveden kirkonkylä,Pohjois-Karjala,Joensuun seutukunta
+33,091,Helsinki,Helsingin kaupunki,0201256-6,FI02012566,kaupunki,"suomi, ruotsi",Helsingin keskustaajama,Uusimaa,Helsingin seutukunta
+34,097,Hirvensalmi,Hirvensalmen kunta,0164384-1,FI01643841,kunta,suomi,Hirvensalmen kirkonkylä,Etelä-Savo,Mikkelin seutukunta
+35,098,Hollola,Hollolan kunta,0146248-5,FI01462485,kunta,suomi,Salpakangas,Päijät-Häme,Lahden seutukunta
+36,102,Huittinen,Huittisten kaupunki,0203762-4,FI02037624,kaupunki,suomi,Lauttakylä,Satakunta,Porin seutukunta
+37,103,Humppila,Humppilan kunta,0146456-0,FI01464560,kunta,suomi,Humppilan asemanseutu,Kanta-Häme,Forssan seutukunta
+38,105,Hyrynsalmi,Hyrynsalmen kunta,0185075-2,FI01850752,kunta,suomi,Hyrynsalmen kirkonkylä,Kainuu,Kehys-Kainuun seutukunta
+39,106,Hyvinkää,Hyvinkään kaupunki,0125866-0,FI01258660,kaupunki,suomi,Hyvinkään keskustaajama,Uusimaa,Helsingin seutukunta
+40,108,Hämeenkyrö,Hämeenkyrön kunta,0132947-3,FI01329473,kunta,suomi,Pappila,Pirkanmaa,Tampereen seutukunta
+41,109,Hämeenlinna,Hämeenlinnan kaupunki,0146921-4,FI01469214,kaupunki,suomi,Hämeenlinnan keskustaajama,Kanta-Häme,Hämeenlinnan seutukunta
+42,139,Ii,Iin kunta,2054621-1,FI20546211,kunta,suomi,Iin Hamina,Pohjois-Pohjanmaa,Oulunkaaren seutukunta
+43,140,Iisalmi,Iisalmen kaupunki,9086071-6,FI90860716,kaupunki,suomi,Iisalmen keskustaajama,Pohjois-Savo,Ylä-Savon seutukunta
+44,142,Iitti,Iitin kunta,0158766-7,FI01587667,kunta,suomi,Kausala,Päijät-Häme,Lahden seutukunta
+45,143,Ikaalinen,Ikaalisten kaupunki,0203797-4,FI02037974,kaupunki,suomi,Ikaalisten keskustaajama,Pirkanmaa,Luoteis-Pirkanmaan seutukunta
+46,145,Ilmajoki,Ilmajoen kunta,0178008-8,FI01780088,kunta,suomi,Ilmajoen kirkonkylä,Etelä-Pohjanmaa,Seinäjoen seutukunta
+47,146,Ilomantsi,Ilomantsin kunta,0167589-4,FI01675894,kunta,suomi,Ilomantsin kirkonkylä,Pohjois-Karjala,Joensuun seutukunta
+48,153,Imatra,Imatran kaupunki,0159216-7,FI01592167,kaupunki,suomi,Mansikkala,Etelä-Karjala,Imatran seutukunta
+49,148,Inari,Inarin kunta,0190758-7,FI01907587,kunta,"suomi, pohjoissaame, inarinsaame, koltansaame",Ivalo,Lappi,Pohjois-Lapin seutukunta
+50,149,Inkoo,Ingå kommun,0126293-4,FI01262934,kunta,"ruotsi, suomi",Inkoon kirkonkylä,Uusimaa,Raaseporin seutukunta
+51,151,Isojoki,Isojoen kunta,0178071-5,FI01780715,kunta,suomi,Isojoen kirkonkylä,Etelä-Pohjanmaa,Suupohjan seutukunta
+52,152,Isokyrö,Isonkyrön kunta,0178131-2,FI01781312,kunta,suomi,Isonkyrön kirkonkylä,Etelä-Pohjanmaa,Seinäjoen seutukunta
+53,165,Janakkala,Janakkalan kunta,0147510-4,FI01475104,kunta,suomi,Turenki,Kanta-Häme,Hämeenlinnan seutukunta
+54,167,Joensuu,Joensuun kaupunki,0242746-2,FI02427462,kaupunki,suomi,Joensuun keskustaajama,Pohjois-Karjala,Joensuun seutukunta
+55,169,Jokioinen,Jokioisten kunta,0147645-7,FI01476457,kunta,suomi,Jokioisten keskustaajama,Kanta-Häme,Forssan seutukunta
+56,170,Jomala,Jomala kommun,0205023-9,FI02050239,kunta,ruotsi,Prästgården,Ahvenanmaa,Ålands landsbygd
+57,171,Joroinen,Joroisten kunta,0207112-8,FI02071128,kunta,suomi,Joroisten kirkonkylä,Pohjois-Savo,Varkauden seutukunta
+58,172,Joutsa,Joutsan kunta,0174108-9,FI01741089,kunta,suomi,Joutsan kirkonkylä,Keski-Suomi,Joutsan seutukunta
+59,176,Juuka,Juuan kunta,0168654-2,FI01686542,kunta,suomi,Juuan kirkonkylä,Pohjois-Karjala,Joensuun seutukunta
+60,177,Juupajoki,Juupajoen kunta,0147705-4,FI01477054,kunta,suomi,Korkeakoski,Pirkanmaa,Ylä-Pirkanmaan seutukunta
+61,178,Juva,Juvan kunta,0164551-3,FI01645513,kunta,suomi,Juvan kirkonkylä,Etelä-Savo,Pieksämäen seutukunta
+62,179,Jyväskylä,Jyväskylän kaupunki,0174666-4,FI01746664,kaupunki,suomi,Jyväskylän keskustaajama,Keski-Suomi,Jyväskylän seutukunta
+63,181,Jämijärvi,Jämijärven kunta,0133127-4,FI01331274,kunta,suomi,Jämijärven kirkonkylä,Satakunta,Pohjois-Satakunnan seutukunta
+64,182,Jämsä,Jämsän kaupunki,0175622-1,FI01756221,kaupunki,suomi,Seppola,Keski-Suomi,Jämsän seutukunta
+65,186,Järvenpää,Järvenpään kaupunki,0126541-4,FI01265414,kaupunki,suomi,Järvenpään keskustaajama,Uusimaa,Helsingin seutukunta
+66,202,Kaarina,Kaarinan kaupunki,0133226-9,FI01332269,kaupunki,suomi,Kaarinan keskusta,Varsinais-Suomi,Turun seutukunta
+67,204,Kaavi,Kaavin kunta,0170664-6,FI01706646,kunta,suomi,Kaavin kirkonkylä,Pohjois-Savo,Koillis-Savon seutukunta
+68,205,Kajaani,Kajaanin kaupunki,0214958-9,FI02149589,kaupunki,suomi,Kajaanin keskustaajama,Kainuu,Kajaanin seutukunta
+69,208,Kalajoki,Kalajoen kaupunki,0185924-7,FI01859247,kaupunki,suomi,Kalajoen kirkonkylä,Pohjois-Pohjanmaa,Ylivieskan seutukunta
+70,211,Kangasala,Kangasalan kaupunki,1923299-5,FI19232995,kaupunki,suomi,Kangasalan kirkonkylä,Pirkanmaa,Tampereen seutukunta
+71,213,Kangasniemi,Kangasniemen kunta,0164690-3,FI01646903,kunta,suomi,Kangasniemen kirkonkylä,Etelä-Savo,Mikkelin seutukunta
+72,214,Kankaanpää,Kankaanpään kaupunki,0133596-1,FI01335961,kaupunki,suomi,Kankaanpään keskustaajama,Satakunta,Pohjois-Satakunnan seutukunta
+73,216,Kannonkoski,Kannonkosken kunta,0175798-8,FI01757988,kunta,suomi,Kannonkosken kirkonkylä,Keski-Suomi,Saarijärven–Viitasaaren seutukunta
+74,217,Kannus,Kannuksen kaupunki,0178455-6,FI01784556,kaupunki,suomi,Kannuksen keskustaajama,Keski-Pohjanmaa,Kokkolan seutukunta
+75,218,Karijoki,Karijoen kunta,0178498-6,FI01784986,kunta,suomi,Karijoen kirkonkylä,Etelä-Pohjanmaa,Suupohjan seutukunta
+76,224,Karkkila,Karkkilan kaupunki,0127046-7,FI01270467,kaupunki,suomi,Karkkilan keskustaajama,Uusimaa,Helsingin seutukunta
+77,226,Karstula,Karstulan kunta,9094917-1,FI90949171,kunta,suomi,Karstulan kirkonkylä,Keski-Suomi,Saarijärven–Viitasaaren seutukunta
+78,230,Karvia,Karvian kunta,0133735-0,FI01337350,kunta,suomi,Karvian kirkonkylä,Satakunta,Pohjois-Satakunnan seutukunta
+79,231,Kaskinen,Kaskisten kaupunki kaskö stad,0208787-5,FI02087875,kaupunki,"suomi, ruotsi",Kaskisten keskustaajama,Pohjanmaa,Suupohjan rannikkoseutu
+80,232,Kauhajoki,Kauhajoen kaupunki,0178718-3,FI01787183,kaupunki,suomi,Kauhajoen keskustaajama,Etelä-Pohjanmaa,Suupohjan seutukunta
+81,233,Kauhava,Kauhavan kaupunki,0208852-8,FI02088528,kaupunki,suomi,Kauhavan keskustaajama,Etelä-Pohjanmaa,Seinäjoen seutukunta
+82,235,Kauniainen,Kauniaisten kaupunki,0203026-2,FI02030262,kaupunki,"suomi, ruotsi",Kauniainen,Uusimaa,Helsingin seutukunta
+83,236,Kaustinen,Kaustisen kunta,0178981-6,FI01789816,kunta,suomi,Kaustisen kirkonkylä,Keski-Pohjanmaa,Kaustisen seutukunta
+84,239,Keitele,Keiteleen kunta,0170773-7,FI01707737,kunta,suomi,Keiteleen kirkonkylä,Pohjois-Savo,Ylä-Savon seutukunta
+85,240,Kemi,Kemin kaupunki,0210427-6,FI02104276,kaupunki,suomi,Kemin keskustaajama,Lappi,Kemi–Tornion seutukunta
+86,320,Kemijärvi,Kemijärven kaupunki,0191717-9,FI01917179,kaupunki,suomi,Kemijärven keskustaajama,Lappi,Itä-Lapin seutukunta
+87,241,Keminmaa,Keminmaan kunta,0210469-8,FI02104698,kunta,suomi,Laurila,Lappi,Kemi–Tornion seutukunta
+88,322,Kemiönsaari,Kimitoöns kommun,0133833-7,FI01338337,kunta,"ruotsi, suomi",Kemiön kirkonkylä,Varsinais-Suomi,Turunmaan seutukunta
+89,244,Kempele,Kempeleen kunta,0186002-9,FI01860029,kunta,suomi,Asemanseutu,Pohjois-Pohjanmaa,Oulun seutukunta
+90,245,Kerava,Keravan kaupunki,0127485-5,FI01274855,kaupunki,suomi,Keravan keskustaajama,Uusimaa,Helsingin seutukunta
+91,249,Keuruu,Keuruun kaupunki,0208388-2,FI02083882,kaupunki,suomi,Keuruun keskustaajama,Keski-Suomi,Keuruun seutukunta
+92,250,Kihniö,Kihniön kunta,0133862-8,FI01338628,kunta,suomi,Kihniön kirkonkylä,Pirkanmaa,Luoteis-Pirkanmaan seutukunta
+93,256,Kinnula,Kinnulan kunta,0242816-6,FI02428166,kunta,suomi,Kinnulan kirkonkylä,Keski-Suomi,Saarijärven–Viitasaaren seutukunta
+94,257,Kirkkonummi,Kirkkonummen kunta,0203107-0,FI02031070,kunta,"suomi, ruotsi",Kirkkonummen keskusta,Uusimaa,Helsingin seutukunta
+95,260,Kitee,Kiteen kaupunki,0168900-6,FI01689006,kaupunki,suomi,Kiteen keskustaajama,Pohjois-Karjala,Keski-Karjalan seutukunta
+96,261,Kittilä,Kittilän kunta,0191406-6,FI01914066,kunta,suomi,Kittilän kirkonkylä,Lappi,Tunturi-Lapin seutukunta
+97,263,Kiuruvesi,Kiuruveden kaupunki,0170843-0,FI01708430,kaupunki,suomi,Kiuruveden keskustaajama,Pohjois-Savo,Ylä-Savon seutukunta
+98,265,Kivijärvi,Kivijärven kunta,0176150-6,FI01761506,kunta,suomi,Kivijärven kirkonkylä,Keski-Suomi,Saarijärven–Viitasaaren seutukunta
+99,271,Kokemäki,Kokemäen kaupunki,0203925-9,FI02039259,kaupunki,suomi,Tulkkila,Satakunta,Porin seutukunta
+100,272,Kokkola,Kokkolan kaupunki,0179377-8,FI01793778,kaupunki,"suomi, ruotsi",Kokkolan keskustaajama,Keski-Pohjanmaa,Kokkolan seutukunta
+101,273,Kolari,Kolarin kunta,0191528-8,FI01915288,kunta,suomi,Kolarin kirkonkylä,Lappi,Tunturi-Lapin seutukunta
+102,275,Konnevesi,Konneveden kunta,0176227-7,FI01762277,kunta,suomi,Konneveden kirkonkylä,Keski-Suomi,Äänekosken seutukunta
+103,276,Kontiolahti,Kontiolahden kunta,0169048-8,FI01690488,kunta,suomi,Kontiolahden kirkonkylä,Pohjois-Karjala,Joensuun seutukunta
+104,280,Korsnäs,Korsnäs kommun,0179699-5,FI01796995,kunta,"ruotsi, suomi",Korsnäsin kirkonkylä,Pohjanmaa,Vaasan seutukunta
+105,284,Koski Tl,Kosken tl kunta,0213007-9,FI02130079,kunta,suomi,Kosken Tl kirkonkylä,Varsinais-Suomi,Loimaan seutukunta
+106,285,Kotka,Kotkan kaupunki,0160225-7,FI01602257,kaupunki,suomi,Kotkan keskustaajama,Kymenlaakso,Kotka–Haminan seutukunta
+107,286,Kouvola,Kouvolan kaupunki,0161075-9,FI01610759,kaupunki,suomi,Kouvolan keskustaajama,Kymenlaakso,Kouvolan seutukunta
+108,287,Kristiinankaupunki,Kristinestad stad,0216509-5,FI02165095,kaupunki,"ruotsi, suomi",Kristiinankaupungin keskustaajama,Pohjanmaa,Suupohjan rannikkoseutu
+109,288,Kruunupyy,Kronoby kommun,0180065-9,FI01800659,kunta,"ruotsi, suomi",Kruunupyyn kirkonkylä,Pohjanmaa,Jakobstadsregionen
+110,290,Kuhmo,Kuhmon kaupunki,0186204-0,FI01862040,kaupunki,suomi,Kuhmon keskustaajama,Kainuu,Kehys-Kainuun seutukunta
+111,291,Kuhmoinen,Kuhmoisten kunta,0176357-9,FI01763579,kunta,suomi,Kuhmoisten kirkonkylä,Pirkanmaa,Tampereen seutukunta
+112,295,Kumlinge,Kumlinge kommun,0205030-0,FI02050300,kunta,ruotsi,Kumlinge,Ahvenanmaa,Ålands skärgård
+113,297,Kuopio,Kuopion kaupunki,0171450-7,FI01714507,kaupunki,suomi,Kuopion keskustaajama,Pohjois-Savo,Kuopion seutukunta
+114,300,Kuortane,Kuortaneen kunta,0180117-6,FI01801176,kunta,suomi,Kuortaneen kirkonkylä,Etelä-Pohjanmaa,Kuusiokuntien seutukunta
+115,301,Kurikka,Kurikan kaupunki,0209046-8,FI02090468,kaupunki,suomi,Kurikan keskustaajama,Etelä-Pohjanmaa,Seinäjoen seutukunta
+116,304,Kustavi,Kustavin kunta,0134349-4,FI01343494,kunta,suomi,Kustavin kirkonkylä,Varsinais-Suomi,Vakka-Suomen seutukunta
+117,305,Kuusamo,Kuusamon kaupunki,0186418-5,FI01864185,kaupunki,suomi,Kuusamon keskustaajama,Pohjois-Pohjanmaa,Koillismaan seutukunta
+118,312,Kyyjärvi,Kyyjärven kunta,0176410-9,FI01764109,kunta,suomi,Kyyjärven kirkonkylä,Keski-Suomi,Saarijärven–Viitasaaren seutukunta
+119,316,Kärkölä,Kärkölän kunta,0148268-9,FI01482689,kunta,suomi,Järvelä,Päijät-Häme,Lahden seutukunta
+120,317,Kärsämäki,Kärsämäen kunta,0186511-0,FI01865110,kunta,suomi,Kärsämäen kirkonkylä,Pohjois-Pohjanmaa,Nivala–Haapajärven seutukunta
+121,318,Kökar,Kökar kommun,0205032-7,FI02050327,kunta,ruotsi,Karlby,Ahvenanmaa,Ålands skärgård
+122,398,Lahti,Lahden kaupunki,0149669-3,FI01496693,kaupunki,suomi,Lahden keskustaajama,Päijät-Häme,Lahden seutukunta
+123,399,Laihia,Laihian kunta,0180451-0,FI01804510,kunta,suomi,Laihian kirkonkylä,Pohjanmaa,Vaasan seutukunta
+124,400,Laitila,Laitilan kaupunki,0134480-9,FI01344809,kaupunki,suomi,Laitilan keskustaajama,Varsinais-Suomi,Vakka-Suomen seutukunta
+125,407,Lapinjärvi,Lapinjärven kunta,0203135-3,FI02031353,kunta,"suomi, ruotsi",Lapinjärven kirkonkylä,Uusimaa,Loviisan seutukunta
+126,402,Lapinlahti,Lapinlahden kunta,0172127-2,FI01721272,kunta,suomi,Lapinlahden kirkonkylä,Pohjois-Savo,Ylä-Savon seutukunta
+127,403,Lappajärvi,Lappajärven kunta,0180516-9,FI01805169,kunta,suomi,Lappajärven kirkonkylä,Etelä-Pohjanmaa,Järviseudun seutukunta
+128,405,Lappeenranta,Lappeenrannan kaupunki,0162193-3,FI01621933,kaupunki,suomi,Lappeenrannan keskustaajama,Etelä-Karjala,Lappeenrannan seutukunta
+129,408,Lapua,Lapuan kaupunki,0209113-7,FI02091137,kaupunki,suomi,Lapuan keskustaajama,Etelä-Pohjanmaa,Seinäjoen seutukunta
+130,410,Laukaa,Laukaan kunta,0176478-2,FI01764782,kunta,suomi,Laukaan kirkonkylä,Keski-Suomi,Jyväskylän seutukunta
+131,416,Lemi,Lemin kunta,0162576-6,FI01625766,kunta,suomi,Lemin kirkonkylä,Etelä-Karjala,Lappeenrannan seutukunta
+132,417,Lemland,Lemlands kommun,0205034-3,FI02050343,kunta,ruotsi,Söderby,Ahvenanmaa,Ålands landsbygd
+133,418,Lempäälä,Lempäälän kunta,0150783-1,FI01507831,kunta,suomi,Lempäälän kirkonkylä,Pirkanmaa,Tampereen seutukunta
+134,420,Leppävirta,Leppävirran kunta,0172231-2,FI01722312,kunta,suomi,Leppävirran kirkonkylä,Pohjois-Savo,Varkauden seutukunta
+135,421,Lestijärvi,Lestijärven kunta,0180774-6,FI01807746,kunta,suomi,Lestijärven kirkonkylä,Keski-Pohjanmaa,Kaustisen seutukunta
+136,422,Lieksa,Lieksan kaupunki,0169321-6,FI01693216,kaupunki,suomi,Lieksan keskustaajama,Pohjois-Karjala,Pielisen Karjalan seutukunta
+137,423,Lieto,Liedon kaupunki,0134698-6,FI01346986,kaupunki,suomi,Liedon kirkonkylä,Varsinais-Suomi,Turun seutukunta
+138,425,Liminka,Limingan kunta,0186553-2,FI01865532,kunta,suomi,Limingan kirkonkylä,Pohjois-Pohjanmaa,Oulun seutukunta
+139,426,Liperi,Liperin kunta,0169583-6,FI01695836,kunta,suomi,Liperin kirkonkylä,Pohjois-Karjala,Joensuun seutukunta
+140,444,Lohja,Lohjan kaupunki,1068322-0,FI10683220,kaupunki,"suomi, ruotsi",Lohjan keskustaajama,Uusimaa,Helsingin seutukunta
+141,430,Loimaa,Loimaan kaupunki,1927453-8,FI19274538,kaupunki,suomi,Loimaan keskustaajama,Varsinais-Suomi,Loimaan seutukunta
+142,433,Loppi,Lopen kunta,0150919-1,FI01509191,kunta,suomi,Lopen kirkonkylä,Kanta-Häme,Riihimäen seutukunta
+143,434,Loviisa,Loviisan kaupunki,0203263-9,FI02032639,kaupunki,"suomi, ruotsi",Loviisan keskustaajama,Uusimaa,Loviisan seutukunta
+144,435,Luhanka,Luhangan kunta,0176592-9,FI01765929,kunta,suomi,Luhangan kirkonkylä,Keski-Suomi,Joutsan seutukunta
+145,436,Lumijoki,Lumijoen kunta,0186580-7,FI01865807,kunta,suomi,Lumijoen kirkonkylä,Pohjois-Pohjanmaa,Oulun seutukunta
+146,438,Lumparland,Lumparlands kommun,0205038-6,FI02050386,kunta,ruotsi,Klemetsby,Ahvenanmaa,Ålands landsbygd
+147,440,Luoto,Larsmo kommun,0180857-0,FI01808570,kunta,"ruotsi, suomi",Holm,Pohjanmaa,Jakobstadsregionen
+148,441,Luumäki,Luumäen kunta,0162631-2,FI01626312,kunta,suomi,Taavetti,Etelä-Karjala,Lappeenrannan seutukunta
+149,475,Maalahti,Malax kommun,0180948-5,FI01809485,kunta,"ruotsi, suomi",Maalahden kirkonkylä,Pohjanmaa,Vaasan seutukunta
+150,478,Maarianhamina,Mariehamns stad,0205071-4,FI02050714,kaupunki,ruotsi,Maarianhaminan keskustaajama,Ahvenanmaa,Mariehamns stad
+151,480,Marttila,Marttilan kunta,0135086-2,FI01350862,kunta,suomi,Marttilan kirkonkylä,Varsinais-Suomi,Loimaan seutukunta
+152,481,Masku,Maskun kunta,0204064-7,FI02040647,kunta,suomi,Maskun kirkonkylä,Varsinais-Suomi,Turun seutukunta
+153,483,Merijärvi,Merijärven kunta,0186588-2,FI01865882,kunta,suomi,Merijärven kirkonkylä,Pohjois-Pohjanmaa,Ylivieskan seutukunta
+154,484,Merikarvia,Merikarvian kunta,0135202-4,FI01352024,kunta,suomi,Merikarvian kirkonkylä,Satakunta,Porin seutukunta
+155,489,Miehikkälä,Miehikkälän kunta,0162675-0,FI01626750,kunta,suomi,Miehikkälän kirkonkylä,Kymenlaakso,Kotka–Haminan seutukunta
+156,491,Mikkeli,Mikkelin kaupunki,0165116-3,FI01651163,kaupunki,suomi,Mikkelin keskustaajama,Etelä-Savo,Mikkelin seutukunta
+157,494,Muhos,Muhoksen kunta,0186646-3,FI01866463,kunta,suomi,Muhoksen kirkonkylä,Pohjois-Pohjanmaa,Oulun seutukunta
+158,495,Multia,Multian kunta,0208471-1,FI02084711,kunta,suomi,Multian kirkonkylä,Keski-Suomi,Keuruun seutukunta
+159,498,Muonio,Muonion kunta,0191824-3,FI01918243,kunta,suomi,Muonion kirkonkylä,Lappi,Tunturi-Lapin seutukunta
+160,499,Mustasaari,Korsholms kommun,0181101-6,FI01811016,kunta,"ruotsi, suomi",Sepänkylä,Pohjanmaa,Vaasan seutukunta
+161,500,Muurame,Muuramen kunta,0176699-9,FI01766999,kunta,suomi,Muuramen kirkonkylä,Keski-Suomi,Jyväskylän seutukunta
+162,503,Mynämäki,Mynämäen kunta,2048364-4,FI20483644,kunta,suomi,Mynämäen kirkonkylä,Varsinais-Suomi,Turun seutukunta
+163,504,Myrskylä,Myrskylän kunta,0203282-3,FI02032823,kunta,"suomi, ruotsi",Myrskylän kirkonkylä,Uusimaa,Porvoon seutukunta
+164,505,Mäntsälä,Mäntsälän kunta,0129261-5,FI01292615,kunta,suomi,Mäntsälän kirkonkylä,Uusimaa,Helsingin seutukunta
+165,508,Mänttä-Vilppula,Mänttä-vilppulan kaupunki,0157867-2,FI01578672,kaupunki,suomi,Mäntän keskustaajama,Pirkanmaa,Ylä-Pirkanmaan seutukunta
+166,507,Mäntyharju,Mäntyharjun kunta,0165761-0,FI01657610,kunta,suomi,Mäntyharjun asemanseutu,Etelä-Savo,Mikkelin seutukunta
+167,529,Naantali,Naantalin kaupunki,0135457-2,FI01354572,kaupunki,suomi,Naantalin keskustaajama,Varsinais-Suomi,Turun seutukunta
+168,531,Nakkila,Nakkilan kunta,0135662-3,FI01356623,kunta,suomi,Nakkilan kirkonkylä,Satakunta,Porin seutukunta
+169,535,Nivala,Nivalan kaupunki,0186757-0,FI01867570,kaupunki,suomi,Nivalan keskustaajama,Pohjois-Pohjanmaa,Nivala–Haapajärven seutukunta
+170,536,Nokia,Nokian kaupunki,0205717-4,FI02057174,kaupunki,suomi,Nokian keskustaajama,Pirkanmaa,Tampereen seutukunta
+171,538,Nousiainen,Nousiaisten kunta,0135821-5,FI01358215,kunta,suomi,Nummi,Varsinais-Suomi,Turun seutukunta
+172,541,Nurmes,Nurmeksen kaupunki,0207669-0,FI02076690,kaupunki,suomi,Nurmeksen keskustaajama,Pohjois-Karjala,Pielisen Karjalan seutukunta
+173,543,Nurmijärvi,Nurmijärven kunta,9014643-2,FI90146432,kunta,suomi,Nurmijärven kirkonkylä,Uusimaa,Helsingin seutukunta
+174,545,Närpiö,Närpes stad,0181367-9,FI01813679,kaupunki,"ruotsi, suomi",Närpiön keskustaajama,Pohjanmaa,Suupohjan rannikkoseutu
+175,560,Orimattila,Orimattilan kaupunki,0129920-0,FI01299200,kaupunki,suomi,Orimattilan keskustaajama,Päijät-Häme,Lahden seutukunta
+176,561,Oripää,Oripään kunta,0135869-6,FI01358696,kunta,suomi,Oripään kirkonkylä,Varsinais-Suomi,Loimaan seutukunta
+177,562,Orivesi,Oriveden kaupunki,0151789-6,FI01517896,kaupunki,suomi,Oriveden keskustaajama,Pirkanmaa,Tampereen seutukunta
+178,563,Oulainen,Oulaisten kaupunki,0186852-2,FI01868522,kaupunki,suomi,Oulaisten keskustaajama,Pohjois-Pohjanmaa,Ylivieskan seutukunta
+179,564,Oulu,Oulun kaupunki,0187690-1,FI01876901,kaupunki,suomi,Oulun keskustaajama,Pohjois-Pohjanmaa,Oulun seutukunta
+180,309,Outokumpu,Outokummun kaupunki,0207604-1,FI02076041,kaupunki,suomi,Outokummun keskustaajama,Pohjois-Karjala,Joensuun seutukunta
+181,576,Padasjoki,Padasjoen kunta,0151924-2,FI01519242,kunta,suomi,Padasjoen kirkonkylä,Päijät-Häme,Lahden seutukunta
+182,577,Paimio,Paimion kaupunki,0136169-2,FI01361692,kaupunki,suomi,Vista,Varsinais-Suomi,Turun seutukunta
+183,578,Paltamo,Paltamon kunta,0188808-0,FI01888080,kunta,suomi,Paltamon kirkonkylä,Kainuu,Kajaanin seutukunta
+184,445,Parainen,Pargas stad,0136082-5,FI01360825,kaupunki,"ruotsi, suomi",Paraisten keskustaajama,Varsinais-Suomi,Turunmaan seutukunta
+185,580,Parikkala,Parikkalan kunta,1913642-6,FI19136426,kunta,suomi,Parikkalan kirkonkylä,Etelä-Karjala,Imatran seutukunta
+186,581,Parkano,Parkanon kaupunki,0136311-0,FI01363110,kaupunki,suomi,Parkanon keskustaajama,Pirkanmaa,Luoteis-Pirkanmaan seutukunta
+187,599,Pedersören kunta,Pedersöre kommun,0198517-1,FI01985171,kunta,"ruotsi, suomi",Pännäinen,Pohjanmaa,Jakobstadsregionen
+188,583,Pelkosenniemi,Pelkosenniemen kunta,0191866-5,FI01918665,kunta,suomi,Pelkosenniemen kirkonkylä,Lappi,Itä-Lapin seutukunta
+189,854,Pello,Pellon kunta,0193729-2,FI01937292,kunta,suomi,Pellon kirkonkylä,Lappi,Torniolaakson seutukunta
+190,584,Perho,Perhon kunta,0181464-7,FI01814647,kunta,suomi,Perhon kirkonkylä,Keski-Pohjanmaa,Kaustisen seutukunta
+191,588,Pertunmaa,Pertunmaan kunta,0165867-2,FI01658672,kunta,suomi,Pertunmaan kirkonkylä,Etelä-Savo,Mikkelin seutukunta
+192,592,Petäjävesi,Petäjäveden kunta,0176769-2,FI01767692,kunta,suomi,Petäjäveden kirkonkylä,Keski-Suomi,Jyväskylän seutukunta
+193,593,Pieksämäki,Pieksämäen kaupunki,2048903-4,FI20489034,kaupunki,suomi,Pieksämäen keskustaajama,Etelä-Savo,Pieksämäen seutukunta
+194,595,Pielavesi,Pielaveden kunta,0172446-5,FI01724465,kunta,suomi,Pielaveden kirkonkylä,Pohjois-Savo,Ylä-Savon seutukunta
+195,598,Pietarsaari,Jakobstads stad,0209242-0,FI02092420,kaupunki,"ruotsi, suomi",Pietarsaaren keskustaajama,Pohjanmaa,Jakobstadsregionen
+196,601,Pihtipudas,Pihtiputaan kunta,0243027-4,FI02430274,kunta,suomi,Pihtiputaan kirkonkylä,Keski-Suomi,Saarijärven–Viitasaaren seutukunta
+197,604,Pirkkala,Pirkkalan kunta,0152084-1,FI01520841,kunta,suomi,Naistenmatka,Pirkanmaa,Tampereen seutukunta
+198,607,Polvijärvi,Polvijärven kunta,0169823-6,FI01698236,kunta,suomi,Polvijärven kirkonkylä,Pohjois-Karjala,Joensuun seutukunta
+199,608,Pomarkku,Pomarkun kunta,0136610-0,FI01366100,kunta,suomi,Pomarkun kirkonkylä,Satakunta,Porin seutukunta
+200,609,Pori,Porin kaupunki,0137323-9,FI01373239,kaupunki,suomi,Porin keskustaajama,Satakunta,Porin seutukunta
+201,611,Pornainen,Pornaisten kunta,0130095-3,FI01300953,kunta,suomi,Pornaisten kirkonkylä,Uusimaa,Helsingin seutukunta
+202,638,Porvoo,Porvoon kaupunki,1061512-1,FI10615121,kaupunki,"suomi, ruotsi",Porvoon keskustaajama,Uusimaa,Porvoon seutukunta
+203,614,Posio,Posion kunta,0191908-6,FI01919086,kunta,suomi,Ahola,Lappi,Itä-Lapin seutukunta
+204,615,Pudasjärvi,Pudasjärven kaupunki,0188962-2,FI01889622,kaupunki,suomi,Kurenalus,Pohjois-Pohjanmaa,Oulunkaaren seutukunta
+205,616,Pukkila,Pukkilan kunta,0130729-0,FI01307290,kunta,suomi,Pukkilan kirkonkylä,Uusimaa,Porvoon seutukunta
+206,619,Punkalaidun,Punkalaitumen kunta,0138037-5,FI01380375,kunta,suomi,Punkalaitumen kirkonkylä,Pirkanmaa,Lounais-Pirkanmaan seutukunta
+207,620,Puolanka,Puolangan kunta,0189081-8,FI01890818,kunta,suomi,Puolangan kirkonkylä,Kainuu,Kehys-Kainuun seutukunta
+208,623,Puumala,Puumalan kunta,0166400-1,FI01664001,kunta,suomi,Puumalan kirkonkylä,Etelä-Savo,Mikkelin seutukunta
+209,624,Pyhtää,Pyhtään kunta,0162798-0,FI01627980,kunta,"suomi, ruotsi",Siltakylä,Kymenlaakso,Kotka–Haminan seutukunta
+210,625,Pyhäjoki,Pyhäjoen kunta,0189127-1,FI01891271,kunta,suomi,Pyhäjoen kirkonkylä,Pohjois-Pohjanmaa,Raahen seutukunta
+211,626,Pyhäjärvi,Pyhäjärven kaupunki,0210261-7,FI02102617,kaupunki,suomi,Pyhäsalmi,Pohjois-Pohjanmaa,Nivala–Haapajärven seutukunta
+212,630,Pyhäntä,Pyhännän kunta,0189226-6,FI01892266,kunta,suomi,Pyhännän kirkonkylä,Pohjois-Pohjanmaa,Haapaveden-Siikalatvan seutukunta
+213,631,Pyhäranta,Pyhärannan kunta,0204403-1,FI02044031,kunta,suomi,Rohdainen,Varsinais-Suomi,Vakka-Suomen seutukunta
+214,635,Pälkäne,Pälkäneen kunta,2050961-3,FI20509613,kunta,suomi,Onkkaala,Pirkanmaa,Tampereen seutukunta
+215,636,Pöytyä,Pöytyän kunta,1929519-5,FI19295195,kunta,suomi,Kyrö ja Riihikoski,Varsinais-Suomi,Loimaan seutukunta
+216,678,Raahe,Raahen kaupunki,1791817-6,FI17918176,kaupunki,suomi,Raahen keskustaajama,Pohjois-Pohjanmaa,Raahen seutukunta
+217,710,Raasepori,Raseborgs stad,0131297-0,FI01312970,kaupunki,"ruotsi, suomi",Tammisaaren keskustaajama,Uusimaa,Raaseporin seutukunta
+218,680,Raisio,Raision kaupunki,0204428-5,FI02044285,kaupunki,suomi,Raision keskustaajama,Varsinais-Suomi,Turun seutukunta
+219,681,Rantasalmi,Rantasalmen kunta,0166507-1,FI01665071,kunta,suomi,Rantasalmen kirkonkylä,Etelä-Savo,Savonlinnan seutukunta
+220,683,Ranua,Ranuan kunta,0191974-8,FI01919748,kunta,suomi,Ranuan kirkonkylä,Lappi,Rovaniemen seutukunta
+221,684,Rauma,Rauman kaupunki,0138780-9,FI01387809,kaupunki,suomi,Rauman keskustaajama,Satakunta,Rauman seutukunta
+222,686,Rautalampi,Rautalammin kunta,0172586-3,FI01725863,kunta,suomi,Rautalammin kirkonkylä,Pohjois-Savo,Sisä-Savon seutukunta
+223,687,Rautavaara,Rautavaaran kunta,0172646-0,FI01726460,kunta,suomi,Rautavaaran kirkonkylä,Pohjois-Savo,Koillis-Savon seutukunta
+224,689,Rautjärvi,Rautjärven kunta,0206951-1,FI02069511,kunta,suomi,Simpele,Etelä-Karjala,Imatran seutukunta
+225,691,Reisjärvi,Reisjärven kunta,0189548-3,FI01895483,kunta,suomi,Reisjärven kirkonkylä,Pohjois-Pohjanmaa,Nivala–Haapajärven seutukunta
+226,694,Riihimäki,Riihimäen kaupunki,0152563-4,FI01525634,kaupunki,suomi,Riihimäen keskustaajama,Kanta-Häme,Riihimäen seutukunta
+227,697,Ristijärvi,Ristijärven kunta,0189576-6,FI01895766,kunta,suomi,Ristijärven kirkonkylä,Kainuu,Kajaanin seutukunta
+228,698,Rovaniemi,Rovaniemen kaupunki,1978283-1,FI19782831,kaupunki,suomi,Rovaniemen keskustaajama,Lappi,Rovaniemen seutukunta
+229,700,Ruokolahti,Ruokolahden kunta,0163013-5,FI01630135,kunta,suomi,Rasila,Etelä-Karjala,Imatran seutukunta
+230,702,Ruovesi,Ruoveden kunta,0152842-1,FI01528421,kunta,suomi,Ruoveden kirkonkylä,Pirkanmaa,Ylä-Pirkanmaan seutukunta
+231,704,Rusko,Ruskon kunta,0204524-5,FI02045245,kunta,suomi,Ruskon kirkonkylä,Varsinais-Suomi,Turun seutukunta
+232,707,Rääkkylä,Rääkkylän kunta,0169967-7,FI01699677,kunta,suomi,Rääkkylän kirkonkylä,Pohjois-Karjala,Keski-Karjalan seutukunta
+233,729,Saarijärvi,Saarijärven kaupunki,0176975-1,FI01769751,kaupunki,suomi,Saarijärven keskustaajama,Keski-Suomi,Saarijärven–Viitasaaren seutukunta
+234,732,Salla,Sallan kunta,0192936-4,FI01929364,kunta,suomi,Sallan kirkonkylä,Lappi,Itä-Lapin seutukunta
+235,734,Salo,Salon kaupunki,0139533-1,FI01395331,kaupunki,suomi,Salon keskustaajama,Varsinais-Suomi,Salon seutukunta
+236,736,Saltvik,Saltviks kommun,0205119-4,FI02051194,kunta,ruotsi,Nääs,Ahvenanmaa,Ålands landsbygd
+237,790,Sastamala,Sastamalan kaupunki,0144411-3,FI01444113,kaupunki,suomi,Vammalan keskustaajama,Pirkanmaa,Lounais-Pirkanmaan seutukunta
+238,738,Sauvo,Sauvon kunta,9038213-6,FI90382136,kunta,suomi,Sauvon kirkonkylä,Varsinais-Suomi,Turun seutukunta
+239,739,Savitaipale,Savitaipaleen kunta,0163109-0,FI01631090,kunta,suomi,Savitaipaleen kirkonkylä,Etelä-Karjala,Lappeenrannan seutukunta
+240,740,Savonlinna,Savonlinnan kaupunki,0166906-4,FI01669064,kaupunki,suomi,Savonlinnan keskustaajama,Etelä-Savo,Savonlinnan seutukunta
+241,742,Savukoski,Savukosken kunta,0210704-7,FI02107047,kunta,suomi,Savukosken kirkonkylä,Lappi,Itä-Lapin seutukunta
+242,743,Seinäjoki,Seinäjoen kaupunki,1928736-3,FI19287363,kaupunki,suomi,Seinäjoen keskustaajama,Etelä-Pohjanmaa,Seinäjoen seutukunta
+243,746,Sievi,Sievin kunta,0189615-2,FI01896152,kunta,suomi,Sievin kirkonkylä,Pohjois-Pohjanmaa,Ylivieskan seutukunta
+244,747,Siikainen,Siikaisten kunta,0139842-8,FI01398428,kunta,suomi,Siikaisten kirkonkylä,Satakunta,Pohjois-Satakunnan seutukunta
+245,748,Siikajoki,Siikajoen kunta,2047359-3,FI20473593,kunta,suomi,Ruukki,Pohjois-Pohjanmaa,Raahen seutukunta
+246,791,Siikalatva,Siikalatvan kunta,0189019-9,FI01890199,kunta,suomi,Pulkkilan kirkonkylä,Pohjois-Pohjanmaa,Haapaveden-Siikalatvan seutukunta
+247,749,Siilinjärvi,Siilinjärven kunta,0172718-0,FI01727180,kunta,suomi,Siilinjärven kirkonkylä,Pohjois-Savo,Kuopion seutukunta
+248,751,Simo,Simon kunta,0193015-4,FI01930154,kunta,suomi,Simon asemanseutu,Lappi,Kemi–Tornion seutukunta
+249,753,Sipoo,Sipoon kunta sibbo kommun,0203533-8,FI02035338,kunta,"suomi, ruotsi",Nikkilä,Uusimaa,Helsingin seutukunta
+250,755,Siuntio,Siuntion kunta,0131156-4,FI01311564,kunta,"suomi, ruotsi",Siuntion asemanseutu,Uusimaa,Helsingin seutukunta
+251,758,Sodankylä,Sodankylän kunta,0193169-1,FI01931691,kunta,"suomi, pohjoissaame",Sodankylän kirkonkylä,Lappi,Pohjois-Lapin seutukunta
+252,759,Soini,Soinin kunta,0182637-3,FI01826373,kunta,suomi,Soinin kirkonkylä,Etelä-Pohjanmaa,Kuusiokuntien seutukunta
+253,761,Somero,Someron kaupunki,0153082-0,FI01530820,kaupunki,suomi,Someron keskustaajama,Varsinais-Suomi,Salon seutukunta
+254,762,Sonkajärvi,Sonkajärven kunta,9090160-2,FI90901602,kunta,suomi,Sonkajärven kirkonkylä,Pohjois-Savo,Ylä-Savon seutukunta
+255,765,Sotkamo,Sotkamon kunta,0189766-5,FI01897665,kunta,suomi,Sotkamon kirkonkylä,Kainuu,Kajaanin seutukunta
+256,766,Sottunga,Sottunga kommun,0205121-5,FI02051215,kunta,ruotsi,Sottunga,Ahvenanmaa,Ålands skärgård
+257,768,Sulkava,Sulkavan kunta,0167265-0,FI01672650,kunta,suomi,Sulkavan kirkonkylä,Etelä-Savo,Savonlinnan seutukunta
+258,771,Sund,Sunds kommun,0205125-8,FI02051258,kunta,ruotsi,Björby,Ahvenanmaa,Ålands landsbygd
+259,777,Suomussalmi,Suomussalmen kunta,0189925-7,FI01899257,kunta,suomi,Ämmänsaari,Kainuu,Kehys-Kainuun seutukunta
+260,778,Suonenjoki,Suonenjoen kaupunki,0208061-4,FI02080614,kaupunki,suomi,Suonenjoen keskustaajama,Pohjois-Savo,Sisä-Savon seutukunta
+261,781,Sysmä,Sysmän kunta,0167352-2,FI01673522,kunta,suomi,Sysmän kirkonkylä,Päijät-Häme,Lahden seutukunta
+262,783,Säkylä,Säkylän kunta,0139937-5,FI01399375,kunta,suomi,Säkylän kirkonkylä,Satakunta,Rauman seutukunta
+263,831,Taipalsaari,Taipalsaaren kunta,0163320-5,FI01633205,kunta,suomi,Taipalsaaren kirkonkylä,Etelä-Karjala,Lappeenrannan seutukunta
+264,832,Taivalkoski,Taivalkosken kunta,0190100-3,FI01901003,kunta,suomi,Taivalkosken kirkonkylä,Pohjois-Pohjanmaa,Koillismaan seutukunta
+265,833,Taivassalo,Taivassalon kunta,0139991-4,FI01399914,kunta,suomi,Taivassalon kirkonkylä,Varsinais-Suomi,Vakka-Suomen seutukunta
+266,834,Tammela,Tammelan kunta,0153179-4,FI01531794,kunta,suomi,Tammelan kirkonkylä,Kanta-Häme,Forssan seutukunta
+267,837,Tampere,Tampereen kaupunki,0211675-2,FI02116752,kaupunki,suomi,Tampereen keskustaajama,Pirkanmaa,Tampereen seutukunta
+268,844,Tervo,Tervon kunta,0173081-4,FI01730814,kunta,suomi,Tervon kirkonkylä,Pohjois-Savo,Sisä-Savon seutukunta
+269,845,Tervola,Tervolan kunta,0193249-1,FI01932491,kunta,suomi,Tervolan kirkonkylä,Lappi,Kemi–Tornion seutukunta
+270,846,Teuva,Teuvan kunta,0182734-1,FI01827341,kunta,suomi,Teuvan kirkonkylä,Etelä-Pohjanmaa,Suupohjan seutukunta
+271,848,Tohmajärvi,Tohmajärven kunta,1919717-3,FI19197173,kunta,suomi,Kemie,Pohjois-Karjala,Keski-Karjalan seutukunta
+272,849,Toholampi,Toholammin kunta,0182779-8,FI01827798,kunta,suomi,Toholammin kirkonkylä,Keski-Pohjanmaa,Kaustisen seutukunta
+273,850,Toivakka,Toivakan kunta,0177201-0,FI01772010,kunta,suomi,Toivakan kirkonkylä,Keski-Suomi,Jyväskylän seutukunta
+274,851,Tornio,Tornion kaupunki,0193524-6,FI01935246,kaupunki,suomi,Tornion keskustaajama,Lappi,Kemi–Tornion seutukunta
+275,853,Turku,Turun kaupunki,0204819-8,FI02048198,kaupunki,"suomi, ruotsi",Turun keskustaajama,Varsinais-Suomi,Turun seutukunta
+276,857,Tuusniemi,Tuusniemen kunta,0173128-6,FI01731286,kunta,suomi,Tuusniemen kirkonkylä,Pohjois-Savo,Koillis-Savon seutukunta
+277,858,Tuusula,Tuusulan kunta,0131661-3,FI01316613,kunta,suomi,Hyrylä,Uusimaa,Helsingin seutukunta
+278,859,Tyrnävä,Tyrnävän kunta,0190140-9,FI01901409,kunta,suomi,Tyrnävän kirkonkylä,Pohjois-Pohjanmaa,Oulun seutukunta
+279,886,Ulvila,Ulvilan kaupunki,0204910-7,FI02049107,kaupunki,suomi,Vanhakylä,Satakunta,Porin seutukunta
+280,887,Urjala,Urjalan kunta,0157323-0,FI01573230,kunta,suomi,Urjalan kirkonkylä,Pirkanmaa,Etelä-Pirkanmaan seutukunta
+281,889,Utajärvi,Utajärven kunta,0190224-1,FI01902241,kunta,suomi,Utajärven kirkonkylä,Pohjois-Pohjanmaa,Oulunkaaren seutukunta
+282,890,Utsjoki,Utsjoen kunta,9129466-4,FI91294664,kunta,"suomi, pohjoissaame",Utsjoen kirkonkylä,Lappi,Pohjois-Lapin seutukunta
+283,892,Uurainen,Uuraisten kunta,0177224-8,FI01772248,kunta,suomi,Uuraisten kirkonkylä,Keski-Suomi,Jyväskylän seutukunta
+284,893,Uusikaarlepyy,Nykarleby stad,0183077-8,FI01830778,kaupunki,"ruotsi, suomi",Uudenkaarlepyyn keskustaajama,Pohjanmaa,Jakobstadsregionen
+285,895,Uusikaupunki,Uudenkaupungin kaupunki,0144036-6,FI01440366,kaupunki,suomi,Uudenkaupungin keskustaajama,Varsinais-Suomi,Vakka-Suomen seutukunta
+286,785,Vaala,Vaalan kunta,0190027-0,FI01900270,kunta,suomi,Vaalan kirkonkylä,Pohjois-Pohjanmaa,Oulunkaaren seutukunta
+287,905,Vaasa,Vaasan kaupunki,0209602-6,FI02096026,kaupunki,"suomi, ruotsi",Vaasan keskustaajama,Pohjanmaa,Vaasan seutukunta
+288,908,Valkeakoski,Valkeakosken kaupunki,0157568-2,FI01575682,kaupunki,suomi,Valkeakosken keskustaajama,Pirkanmaa,Etelä-Pirkanmaan seutukunta
+289,092,Vantaa,Vantaan kaupunki,0124610-9,FI01246109,kaupunki,"suomi, ruotsi",Tikkurila,Uusimaa,Helsingin seutukunta
+290,915,Varkaus,Varkauden kaupunki,0173416-1,FI01734161,kaupunki,suomi,Varkauden keskustaajama,Pohjois-Savo,Varkauden seutukunta
+291,918,Vehmaa,Vehmaan kunta,0144561-8,FI01445618,kunta,suomi,Vinkkilä,Varsinais-Suomi,Vakka-Suomen seutukunta
+292,921,Vesanto,Vesannon kunta,0173787-2,FI01737872,kunta,suomi,Vesannon kirkonkylä,Pohjois-Savo,Sisä-Savon seutukunta
+293,922,Vesilahti,Vesilahden kunta,0157711-9,FI01577119,kunta,suomi,Vesilahden kirkonkylä,Pirkanmaa,Tampereen seutukunta
+294,924,Veteli,Vetelin kunta,0184278-7,FI01842787,kunta,suomi,Kainu,Keski-Pohjanmaa,Kaustisen seutukunta
+295,925,Vieremä,Vieremän kunta,0173835-7,FI01738357,kunta,suomi,Vieremän kirkonkylä,Pohjois-Savo,Ylä-Savon seutukunta
+296,927,Vihti,Vihdin kunta,0131905-6,FI01319056,kunta,suomi,Nummela,Uusimaa,Helsingin seutukunta
+297,931,Viitasaari,Viitasaaren kaupunki,0208573-0,FI02085730,kaupunki,suomi,Viitasaaren keskustaajama,Keski-Suomi,Saarijärven–Viitasaaren seutukunta
+298,934,Vimpeli,Vimpelin kunta,0184318-1,FI01843181,kunta,suomi,Vimpelin kirkonkylä,Etelä-Pohjanmaa,Järviseudun seutukunta
+299,935,Virolahti,Virolahden kunta,0207033-6,FI02070336,kunta,suomi,Virojoki,Kymenlaakso,Kotka–Haminan seutukunta
+300,936,Virrat,Virtain kaupunki,0206333-9,FI02063339,kaupunki,suomi,Virtain keskustaajama,Pirkanmaa,Ylä-Pirkanmaan seutukunta
+301,941,Vårdö,Vårdö kommun,0205126-6,FI02051266,kunta,ruotsi,Vårdö,Ahvenanmaa,Ålands skärgård
+302,946,Vöyri,Vörå kommun,2050514-5,FI20505145,kunta,"ruotsi, suomi",Vöyrin kirkonkylä,Pohjanmaa,Vaasan seutukunta
+303,976,Ylitornio,Ylitornion kunta,0210826-9,FI02108269,kunta,suomi,Ylitornion kirkonkylä,Lappi,Torniolaakson seutukunta
+304,977,Ylivieska,Ylivieskan kaupunki,0190557-3,FI01905573,kaupunki,suomi,Ylivieskan keskustaajama,Pohjois-Pohjanmaa,Ylivieskan seutukunta
+305,980,Ylöjärvi,Ylöjärven kaupunki,0158221-7,FI01582217,kaupunki,suomi,Ylöjärven kirkonkylä,Pirkanmaa,Tampereen seutukunta
+306,981,Ypäjä,Ypäjän kunta,0158301-7,FI01583017,kunta,suomi,Ypäjän kirkonkylä,Kanta-Häme,Forssan seutukunta
+307,989,Ähtäri,Ähtärin kaupunki,0184622-7,FI01846227,kaupunki,suomi,Ähtärin keskustaajama,Etelä-Pohjanmaa,Kuusiokuntien seutukunta
+308,992,Äänekoski,Äänekosken kaupunki,2045520-5,FI20455205,kaupunki,suomi,Äänekosken keskustaajama,Keski-Suomi,Äänekosken seutukunta
